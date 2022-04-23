@@ -1,3 +1,3 @@
 # Single Page Application (SPA)
 
-made Html, css and Javascript.
+made with Html, css and Javascript.
