@@ -1,3 +1,3 @@
 # Single Page Application (SPA)
 
-No framework used
+made Html, css and Javascript.
